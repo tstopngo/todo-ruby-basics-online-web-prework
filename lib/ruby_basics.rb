@@ -12,17 +12,18 @@ def argue(argument)
 end
 
 def greeting(name,language)
-
+  name + language
 end
 
 def return_a_value
-
+"Nice"
 end
 
 def last_evaluated_value
-
+"nice"
+"expert"
 end
 
-def pizza_party
-
+def pizza_party(type="cheese")
+  type
 end
