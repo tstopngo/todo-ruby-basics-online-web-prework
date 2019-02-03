@@ -4,14 +4,14 @@ end
 
 def assign_variable(value)
   name=value
-  name
 end
 
-def argue
+def argue(argument)
+  arugment
   
 end
 
-def greeting
+def greeting(name,language)
 
 end
 
